@@ -1,10 +1,13 @@
 package main
 
 import (
+	"fmt"
+
 	"github.com/GoesToEleven/puppy"
 )
 
 func main() {
 
-	puppy.Barks()
+	s1 := puppy.Barks()
+	fmt.Println(s1)
 }
