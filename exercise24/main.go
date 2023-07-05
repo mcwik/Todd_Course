@@ -24,13 +24,5 @@ func main() {
 	fmt.Println(rand.Intn(3))
 	fmt.Println(rand.Intn(3))
 	fmt.Println(rand.Intn(3))
-	fmt.Println(rand.Intn(3))
-	fmt.Println(rand.Intn(3))
-	fmt.Println(rand.Intn(3))
-	fmt.Println(rand.Intn(3))
-	fmt.Println(rand.Intn(3))
-	fmt.Println(rand.Intn(3))
-	fmt.Println(rand.Intn(3))
-	fmt.Println(rand.Intn(3))
-	fmt.Println(rand.Intn(3))
+
 }
